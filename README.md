@@ -1,7 +1,8 @@
 # TP4
 Web-App zur Verwaltung von Endprodukten, MHD-Alarmen und Produktscans für Industrie 4.0
 
-#Themenstellung
+Themenstellung:
+
 Viel Produktionsfirmen müssen wissen, welche Produkte sie haben, vor allem wann sie ablaufen oder das Lager verlassen. Ohne eine gute digitale Lösung entstehen oft Fehler, unnötige Verluste und Qualitätssicherung Probleme
 
 1.2	Konkrete Aufgabenstellung (oder Problemstellung) 
